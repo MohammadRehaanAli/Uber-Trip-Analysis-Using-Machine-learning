@@ -1,9 +1,6 @@
 # Uber-Trip-Analysis-Using-Machine-learning
 
 ---
-### **Uber Trip Analysis Machine Learning Project**
-
----
 
 #### **Project Description**
 
